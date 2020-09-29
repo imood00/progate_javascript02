@@ -1,2 +1,2 @@
-# progate_javascript01
-progate_javascript01
+# progate_javascript02
+progate_javascript02
